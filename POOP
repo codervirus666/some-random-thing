@@ -1,0 +1,20 @@
+<!DOCTYPEhtml>
+
+<html>
+
+<head>
+<script>
+  function showAlert() {
+    alert ("POOP");
+  }
+  </script>
+<title>POOP.COM</title>
+</head>
+
+<body>
+<img src="https://www.eatingwell.com/thmb/al3-xCEAtTLsqb0QgO9KPTE2Z8k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/gettyimages-590062982-6be3f53c3b3c4c86bd3f2ab1bb30b86d.png" alt="POOP">
+<br>
+<a href="songwebsite.html">This is the homepage.</a>
+</body>
+
+</html>
